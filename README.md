@@ -35,5 +35,5 @@ Si deseas aportar más códigos o ejercicios, ¡bienvenido! Puedes hacer un *for
 
 ---
 
-📘 **Repositorio mantenido por:** [Tu Nombre o Usuario de GitHub]
+📘 **Repositorio mantenido por:** TioYisus
 
